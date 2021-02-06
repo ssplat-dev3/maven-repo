@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Feb 04 15:59:00 UTC 2021
-spring-framework-bom-5.2.5.RELEASE.pom>internal-site=
+#Sat Feb 06 12:22:04 UTC 2021
+spring-framework-bom-5.2.5.RELEASE.pom>internal\ central=
 spring-framework-bom-5.2.5.RELEASE.pom>central=
+spring-framework-bom-5.2.5.RELEASE.pom>central-proxy=

@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Feb 04 15:59:18 UTC 2021
-hamcrest-2.1.jar>internal-site=
-hamcrest-2.1.pom>internal-site=
+#Sat Feb 06 12:22:29 UTC 2021
+hamcrest-2.1.pom>internal\ central=
+hamcrest-2.1.jar>internal\ central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 06 12:22:04 UTC 2021
+netty-bom-4.1.48.Final.pom>central=
+netty-bom-4.1.48.Final.pom>central-proxy=
+netty-bom-4.1.48.Final.pom>internal\ central=

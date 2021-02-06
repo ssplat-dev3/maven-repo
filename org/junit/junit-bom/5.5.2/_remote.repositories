@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Feb 04 15:58:59 UTC 2021
+#Sat Feb 06 12:22:04 UTC 2021
 junit-bom-5.5.2.pom>central=
-junit-bom-5.5.2.pom>internal-site=
+junit-bom-5.5.2.pom>central-proxy=
+junit-bom-5.5.2.pom>internal\ central=

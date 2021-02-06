@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Feb 04 16:00:00 UTC 2021
-surefire-booter-2.22.2.jar>central=
-surefire-booter-2.22.2.pom>central=
+#Sat Feb 06 12:22:37 UTC 2021
+surefire-booter-2.22.2.jar>central-proxy=
+surefire-booter-2.22.2.pom>central-proxy=

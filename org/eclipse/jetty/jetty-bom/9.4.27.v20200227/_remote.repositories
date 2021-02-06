@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Feb 04 15:58:59 UTC 2021
+#Sat Feb 06 12:22:04 UTC 2021
 jetty-bom-9.4.27.v20200227.pom>central=
-jetty-bom-9.4.27.v20200227.pom>internal-site=
+jetty-bom-9.4.27.v20200227.pom>central-proxy=
+jetty-bom-9.4.27.v20200227.pom>internal\ central=

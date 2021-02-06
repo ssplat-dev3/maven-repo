@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Feb 04 15:58:58 UTC 2021
-logging-parent-1.pom>internal-site=
+#Sat Feb 06 12:22:04 UTC 2021
 logging-parent-1.pom>central=
+logging-parent-1.pom>internal\ central=
+logging-parent-1.pom>central-proxy=

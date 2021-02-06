@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Feb 04 15:59:18 UTC 2021
-org.eclipse.jgit-5.1.3.201810200350-r.pom>internal-site=
-org.eclipse.jgit-5.1.3.201810200350-r.jar>internal-site=
+#Sat Feb 06 12:22:29 UTC 2021
+org.eclipse.jgit-5.1.3.201810200350-r.jar>internal\ central=
+org.eclipse.jgit-5.1.3.201810200350-r.pom>internal\ central=

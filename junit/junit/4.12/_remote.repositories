@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 06 12:22:37 UTC 2021
+junit-4.12.jar>internal\ central=
+junit-4.12.pom>internal\ central=
+junit-4.12.jar>central-proxy=
