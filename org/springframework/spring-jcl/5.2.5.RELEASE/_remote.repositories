@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 04 16:00:32 UTC 2021
+spring-jcl-5.2.5.RELEASE.jar>internal-site=
+spring-jcl-5.2.5.RELEASE.jar>central=
+spring-jcl-5.2.5.RELEASE.pom>internal-site=

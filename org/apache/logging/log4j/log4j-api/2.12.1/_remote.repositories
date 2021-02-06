@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 04 15:59:17 UTC 2021
+log4j-api-2.12.1.jar>internal-site=
+log4j-api-2.12.1.pom>internal-site=
