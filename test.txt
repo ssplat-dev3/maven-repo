@@ -1,3 +1,3 @@
 ##################################################
-This is a sample file for checking github webhook
+This is a sample file for checking github webhook.
 ##################################################
